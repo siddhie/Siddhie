@@ -1,15 +1,7 @@
-
-
-<!--
-**Siddhinandaniya/Siddhinandaniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
---> 
-
 <h1 align="center">Hi 👋, I'm Siddhi Nandaniya</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **FrontendMentor Challenges**
+- 🔭 I’m currently working on [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/Siddhinandaniya)
 
 - 🌱 I’m currently learning **JavaScript and React**
 
