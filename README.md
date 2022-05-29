@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 --> 
 
 <h1 align="center">Hi 👋, I'm Siddhi Nandaniya</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
 - 🔭 I’m currently working on **FrontendMentor Challenges**
 
