@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhi Nandaniya</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhinandaniya&label=Profile%20views&color=0e75b6&style=flat" alt="siddhinandaniya" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhinandaniya" alt="siddhinandaniya" /></a> </p>
 
 - 🔭 I’m currently working on [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/Siddhinandaniya)
