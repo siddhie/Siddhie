@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/Siddhinandaniya)
 
-- 🌱 I’m currently learning **JavaScript and React**
-
 - 📫 How to reach me **siddhinandaniya2811@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny XD**
