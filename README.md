@@ -4,9 +4,8 @@
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🔭 I’m currently working on [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/Siddhinandaniya)
-
 - 📫 How to reach me **siddhinandaniya2811@gmail.com**
-
+- 👀 I’m interested in growing and learning new Skills for becoming an experienced FrontEnd Developer
 - ⚡ Fun fact **I think I'm funny XD**
 
 <h3 align="left">Connect with me:</h3>
