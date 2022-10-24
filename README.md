@@ -31,3 +31,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhie&show_icons=true&locale=en&layout=compact" alt="siddhinandaniya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhie&show_icons=true&locale=en" alt="siddhinandaniya" /></p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhie&show_icons=true&locale=en&layout=compact" alt="siddhie" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhie&show_icons=true&locale=en" alt="siddhie" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhie&" alt="siddhie" /></p>
