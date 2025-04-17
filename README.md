@@ -57,8 +57,8 @@ Currently diving deep into **Frontend Mentor Challenges** and sharpening my skil
 
 ## 🌱 Currently Learning
 
-- ⚙️ Advanced UI/UX and Animations (GSAP, Framer Motion)
-- ☁️ Cloud & DevOps fundamentals (AWS, Netlify, Vercel)
+- ⚙️ Advanced UI/UX and Animations (GSAP)
+- ☁️ Cloud & DevOps fundamentals (AWS)
 - 🧠 How to build intuitive user journeys & real-world products
 - 📊 Analytics & user behavior insights
 
