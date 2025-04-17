@@ -5,7 +5,6 @@
 ### 🌸 Frontend Developer | Creative Thinker | Lifelong Learner
 
 I'm a passionate Frontend Developer who loves crafting beautiful, accessible, and performant web experiences.  
-Currently diving deep into **Frontend Mentor Challenges** and sharpening my skills one pixel at a time.  
 
 💡 Always curious, always learning.  
 ⚡ Fun fact: I *genuinely* think I'm funny (and coffee agrees with me).  
