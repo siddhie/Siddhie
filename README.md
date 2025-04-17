@@ -8,11 +8,14 @@
 - 📫 How to reach me **siddhinandaniya2811@gmail.com**
 - ⚡ Fun fact **I think I'm funny XD**
 
-## My Values
-🧠 Thoughtful & Inclusive Development <br/>
-🖤 Authentic Expression <br/>
-💡 Mindset of Learning & Curiosity <br/>
-🙌 Teamwork & Communication
+## 🧠 Core Values
+
+- 🧩 **Thoughtful & Inclusive Development** – Code that includes everyone.
+- 🎭 **Authentic Expression** – Let the code speak your vibe.
+- 🔍 **Curiosity-Driven Learning** – Ask, explore, grow, repeat.
+- 🗣️ **Clear Communication & Teamwork** – Great software is built together.
+
+---
 
 ## ☕ Hobbies & Personal Bits
 
