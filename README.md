@@ -70,6 +70,6 @@ Currently diving deep into **Frontend Mentor Challenges** and sharpening my skil
 
 ---
 
-🔗 [Check out my portfolio](https://siddhie.github.io/Portfolio/)
+🔗 [Check out my portfolio](https://siddhi-nandaniya-portfolio.netlify.app/)
 
 
