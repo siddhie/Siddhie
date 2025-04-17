@@ -3,10 +3,16 @@
 
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🔭 I’m currently working on [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/Siddhie)
-- 👀 I’m interested in growing and learning new Skills for becoming an experienced FrontEnd Developer
-- 📫 How to reach me **siddhinandaniya2811@gmail.com**
-- ⚡ Fun fact **I think I'm funny XD**
+### 🌸 Frontend Developer | Creative Thinker | Lifelong Learner
+
+I'm a passionate Frontend Developer who loves crafting beautiful, accessible, and performant web experiences.  
+Currently diving deep into **Frontend Mentor Challenges** and sharpening my skills one pixel at a time.  
+
+💡 Always curious, always learning.  
+⚡ Fun fact: I *genuinely* think I'm funny (and coffee agrees with me).  
+📫 Reach out to me: [siddhinandaniya2811@gmail.com](mailto:siddhinandaniya2811@gmail.com)
+
+---
 
 ## 🧠 Core Values
 
