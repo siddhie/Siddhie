@@ -1,6 +1,5 @@
 # 👋 Hey there! I'm Siddhi Nandaniya
 
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ### 🌸 Frontend Developer | Creative Thinker | Lifelong Learner
 
