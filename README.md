@@ -20,14 +20,6 @@ I'm a passionate Frontend Developer who loves crafting beautiful, accessible, an
 
 ---
 
-## ☕ Hobbies & Personal Bits
-
-- Espresso Enthusiast (I may or may not have a mini café setup 🌿)
-- Bookworm 📚 – Stories feed my imagination and logic
-- Journaling + Mind Mapping 🌀 (Yes, I'm a productivity nerd)
-
----
-
 ## 🔗 Connect With Me
 <p align="left">
   <a href="https://twitter.com/Siddhi_2811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishitanakrani" height="30" width="40" /></a>
