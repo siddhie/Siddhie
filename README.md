@@ -44,4 +44,30 @@ Currently diving deep into **Frontend Mentor Challenges** and sharpening my skil
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhie&show_icons=true&locale=en" alt="siddhinandaniya" /></p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhie&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhie&layout=compact&theme=react" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- ⚙️ Advanced UI/UX and Animations (GSAP, Framer Motion)
+- ☁️ Cloud & DevOps fundamentals (AWS, Netlify, Vercel)
+- 🧠 How to build intuitive user journeys & real-world products
+- 📊 Analytics & user behavior insights
+
+---
+
+## 💭 Motto
+
+> "Keep it simple, make it delightful, and never stop growing."
+
+---
+
+🔗 [Check out my portfolio](https://siddhie.github.io/Portfolio/)
+
 
