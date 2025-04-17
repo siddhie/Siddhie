@@ -14,9 +14,11 @@
 💡 Mindset of Learning & Curiosity <br/>
 🙌 Teamwork & Communication
 
-## Hobbies
-☕️ Espresso Enthusiast <br/>
-📕 Book Reader </br>
+## ☕ Hobbies & Personal Bits
+
+- Espresso Enthusiast (I may or may not have a mini café setup 🌿)
+- Bookworm 📚 – Stories feed my imagination and logic
+- Journaling + Mind Mapping 🌀 (Yes, I'm a productivity nerd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
